@@ -39,10 +39,10 @@ Design the first user interface and begin setting up the project architecture.
 
 # Day 2 03/07/2026 : Designing the User Interface
 
-Sentence to Grab User attention would be :
+### Sentence to Grab User attention would be :
 - Geo Verify / Verify your facility in under 1 minute
 
-User is not required to create account
+### User is not required to create account
 
 After User taps link this is what they should see :
 
@@ -66,11 +66,11 @@ After User taps link this is what they should see :
 
 - [Start Verification] BUTTON
 
-Ask for GPS at the start 
+### Ask for GPS at the start 
 - User will HAVE to agree to turn GPS on otherwise it wont work.
 - Explain to user : Location is only used to verify that the photographs were taken at the healthcare facility.
 
-Verification will happen in 3 guided steps :
+### Verification will happen in 3 guided steps :
 - Step 1/3 (Take photo of main entrance )
 - Step 2/3 (Take photo of building signage )
 - step 3/3 (Take photo of Reception/Exterior)
@@ -81,7 +81,7 @@ Success screen Then Appears
 - Your verification has been received successfully.
 - Reference Number: RC-2026-000123
 
-When can Users Fail?
+### When can Users Fail?
 - Failure 1
 GPS denied.Solution? Explain why it's needed.
 - Failure 2
