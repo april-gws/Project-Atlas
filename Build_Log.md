@@ -37,7 +37,7 @@ Develop a web application that enables healthcare facilities to securely submit 
 
 Design the first user interface and begin setting up the project architecture.
 
-### Day 2 03/07/2026 : Designing the User Interface
+# Day 2 03/07/2026 : Designing the User Interface
 
 Sentence to Grab User attention would be :
 - Geo Verify / Verify your facility in under 1 minute
