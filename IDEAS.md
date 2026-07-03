@@ -9,20 +9,12 @@ Features listed below are **not part of the MVP** and should not delay developme
 
 
 ## Version 2
-
-- Admin dashboard
-- Search functionality
-- Submission status tracking
-- Email notifications
-- Better reporting
+- Continue where you left off even after browser closes
+- Email Notifications
 
 
 ## Version 3
 
-- WhatsApp verification requests
-- Automatic reminder messages
-- GPS verification map
-- Download verification reports
 
 
 ## Future Possibilities
